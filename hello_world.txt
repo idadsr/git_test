@@ -1,3 +1,4 @@
 Hello Odin!
 Learning about git and github is interesting.
 Hope you're having a nice Sunday.
+I've added commit config.
